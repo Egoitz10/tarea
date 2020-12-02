@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-ha sido modificado en main
-=======
-ha sido modificado  
-
-ha sido modificado en newbody
->>>>>>> newbody
+archivo modificado
