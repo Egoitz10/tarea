@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 archivo cambiado en local
+=======
+archivo modificado
+>>>>>>> 9efc142b5b3cb8fa883bdcb493c08304081c67ed
